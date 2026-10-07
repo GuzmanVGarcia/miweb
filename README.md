@@ -17,7 +17,7 @@ I like **videogames** and **anime** although I don't usually see them these ~~da
 
 ## Comparation Ias LOCAL .
 |   PROS       | CONTRAS |
-| -----        |         |
+|:-----        |:---:       |
 |     privacity         |   less capacity     |
 |      don´t restriction        |      more complicate   |
 |         more cheaps     |      high initial budget   |
